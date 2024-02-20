@@ -12,9 +12,9 @@ Antes de começar, certifique-se de ter as seguintes ferramentas e bibliotecas i
    - [SQLAlchemy ORM](https://docs.sqlalchemy.org/en/20/orm/): Instale com `pip install sqlalchemy.orm`
 
 ## Estrutura do Projeto
-database.ipynb: Contém a definição das tabelas do banco de dados.
-funcoes.ipynb: Notebook Jupyter com as funções relacionadas ao banco de dados.
-main.ipynb: Notebook Jupyter principal que utiliza as funções do notebook funcoes.ipynb.
+- database.ipynb: Contém a definição das tabelas do banco de dados.
+- funcoes.ipynb: Notebook Jupyter com as funções relacionadas ao banco de dados.
+- main.ipynb: Notebook Jupyter principal que utiliza as funções do notebook funcoes.ipynb.
 
 ## Execução
 Execute o notebook main.ipynb para interagir com o sistema de gerenciamento da padaria.
